@@ -1,0 +1,8 @@
+Build a personal portfolio website using Next.js and Tailwind CSS.
+Include:
+- Homepage with intro and profile image
+- About section with skills and experience
+- Projects section with cards linking to GitHub repos
+- Contact form with email integration
+Make it responsive and clean.
+
